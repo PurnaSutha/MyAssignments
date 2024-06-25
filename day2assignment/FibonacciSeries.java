@@ -9,7 +9,7 @@ public class FibonacciSeries {
          System.out.println("Fibonacci Series is");
          for (int i=0;i<range;i++)//for loop 
          {
-        	 System.out.println(a);////Print statement to print the Fibonacci series
+        	 System.out.println(a);//Print statement to print the Fibonacci series
         	 int c=a+b;
         	 a=b;
         	 b=c;
