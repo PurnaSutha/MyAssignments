@@ -7,7 +7,7 @@ public class PalindromeNumber {
 		int input=121 ;//input Number 
 		int i=input;
 		int rem;// to store the reminder
-		int output=0;//intialising the variable output 
+		int output=0;//intializing the variable output 
 	   
 		for (output=0;i>0;i=i/10)  //logic to reverse the number using for loop
 		{
